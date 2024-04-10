@@ -2,6 +2,6 @@
 My Personal Website
 
 
-My Name is narasimha Rao Student in [Indian Institute of Remote Sensing](https://www.iirs.gov.in/)
+My Name is Narasimha Rao Student in [Indian Institute of Bombay](https://www.iitb.ac.in/)
 
-Specalization in Urban and Regional Studies
+Specalization in Geoinformatics
